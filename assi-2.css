@@ -1,5 +1,8 @@
-.My{
+ .My{
     background-color: brown;
-    width: 700px;
-    height: 200px;
+    border: 4px solid blue;
+    font-size: 30px;
+} 
+div{
+    background-color: grey;
 }
